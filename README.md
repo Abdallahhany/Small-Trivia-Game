@@ -11,7 +11,7 @@ This is a simple trivia game built using React and the Open Trivia API. The game
 ## Installation
 
 1. Clone the repository: `https://github.com/Abdallahhany/Small-Trivia-Game.git`
-2. Navigate into the project directory: `cd trivia-game`
+2. Navigate into the project directory: `cd Small-Trivia-Game`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
